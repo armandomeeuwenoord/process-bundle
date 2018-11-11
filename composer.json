@@ -1,5 +1,5 @@
 {
-    "name": "cleverage/process-bundle",
+    "name": "armandomeeuwenoord/process-bundle",
     "description": "Process, import/export, transform and validate data with a simple API with Symfony3",
     "keywords": [
         "process",
@@ -43,7 +43,7 @@
         "doctrine/orm": "~2.5",
         "doctrine/doctrine-bundle": "~1.6",
         "symfony/expression-language": "~3.0|~4.0",
-        "symfony/monolog-bundle": "~3.3",
+        "symfony/monolog-bundle": "~3.1|~3.3",
         "sidus/base-bundle": "~1.0"
     },
     "require-dev": {
