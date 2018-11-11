@@ -1,5 +1,5 @@
 {
-    "name": "armandomeeuwenoord/process-bundle",
+    "name": "cleverage/process-bundle",
     "description": "Process, import/export, transform and validate data with a simple API with Symfony3",
     "keywords": [
         "process",
